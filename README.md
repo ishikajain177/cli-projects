@@ -16,3 +16,7 @@ A simple CLI-based to-do list where the user can:-
 Add new tasks.
 View existing tasks.
 Remove tasks from the list.
+
+4. Rock Paper Scissor Game
+This is a simple Rock, Paper, Scissors game built using Python. The game allows the user to play against the computer. The player can choose between rock, paper, and scissors, and the computer randomly selects one of the choices.The winner is determined based on the classic rules of the game.
+The user can choose how many points game they wish to play for.
